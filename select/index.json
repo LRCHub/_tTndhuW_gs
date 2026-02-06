@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "IRO",
+  "base_artist": "Yoshino Nanjo",
+  "createdAt": "2026-02-06T06:48:32.842629Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shiroi Iro Wa Koibito No Ito (English version)",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/01_Shiroi_Iro_Wa_Koibito_No_Ito_(English_version)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "shiroi iro ha koibito no iro (japanese version)",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/02_shiroi_iro_ha_koibito_no_iro_(japanese_version)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shiroi Irowa Koibitono Iro",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/03_Shiroi_Irowa_Koibitono_Iro_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fools (feat. IRO)",
+      "artist": "Robin Schulz, Aalias, iRO",
+      "has_synced": true,
+      "path": "select/04_Fools_(feat._IRO)_Robin_Schulz,_Aalias,_iRO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sora iro Days",
+      "artist": "Nakagawa Shouko",
+      "has_synced": true,
+      "path": "select/05_Sora_iro_Days_Nakagawa_Shouko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gin iro no Sora",
+      "artist": "redballoon",
+      "has_synced": true,
+      "path": "select/06_Gin_iro_no_Sora_redballoon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Iro Whiteblend",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/07_Iro_Whiteblend_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shadow (feat. IRO) - From Songland",
+      "artist": "Macklemore feat. iRO",
+      "has_synced": true,
+      "path": "select/08_Shadow_(feat._IRO)_-_From_Songland_Macklemore_feat._iRO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shadow (feat. IRO)",
+      "artist": "Macklemore, Iro",
+      "has_synced": true,
+      "path": "select/09_Shadow_(feat._IRO)_Macklemore,_Iro.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Orenji Iro to Yubikiri [オレンジ色とゆびきり]",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/10_Orenji_Iro_to_Yubikiri_[オレンジ色とゆびきり]_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sora-iro no Isu [空色の椅子]",
+      "artist": "Kalafina",
+      "has_synced": true,
+      "path": "select/11_Sora-iro_no_Isu_[空色の椅子]_Kalafina.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Niji-iro Kumakuma [虹いろ・クマクマ]",
+      "artist": "Ranka Lee=Megumi Nakajima",
+      "has_synced": false,
+      "path": "select/12_Niji-iro_Kumakuma_[虹いろ・クマクマ]_Ranka_Lee=Megumi_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hikari iro no Uta",
+      "artist": "Suzuki Aina",
+      "has_synced": true,
+      "path": "select/13_Hikari_iro_no_Uta_Suzuki_Aina.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shadow ft. IRO (Explicit)",
+      "artist": "Macklemore",
+      "has_synced": true,
+      "path": "select/14_Shadow_ft._IRO_(Explicit)_Macklemore.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sepia Iro no Shashin",
+      "artist": "Joe Hisaishi",
+      "has_synced": false,
+      "path": "select/15_Sepia_Iro_no_Shashin_Joe_Hisaishi.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Koi no Iro",
+      "artist": "Ai Higuchi",
+      "has_synced": true,
+      "path": "select/16_Koi_no_Iro_Ai_Higuchi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Almost Home feat. Nadia Ali feat. IRO (Melosense Remix)",
+      "artist": "Nadia Ali",
+      "has_synced": true,
+      "path": "select/17_Almost_Home_feat._Nadia_Ali_feat._IRO_(Melosense_Remix)_Nadia_Ali.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IRO",
+      "artist": "南條愛乃",
+      "has_synced": false,
+      "path": "select/pl_01_IRO_南條愛乃.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "IRO",
+      "artist": "南條愛乃",
+      "has_synced": false,
+      "path": "select/pl_02_IRO_南條愛乃.txt"
+    }
+  ]
+}
